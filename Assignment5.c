@@ -1,5 +1,3 @@
-// Assignment 5
-
     #include <stdio.h>
 
     //Declaration
